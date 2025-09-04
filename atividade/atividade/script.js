@@ -1,4 +1,4 @@
-function gerarCSS(){ 
+function gerarCodigoCSS(){ 
     const cor = document.getElementById('cor').value;
     const estilo = document.getElementById('estilo').value;
     const largura = document.getElementById('largura').value;
